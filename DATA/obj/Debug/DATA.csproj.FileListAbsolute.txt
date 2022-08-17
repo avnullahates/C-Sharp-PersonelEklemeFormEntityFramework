@@ -1,0 +1,5 @@
+C:\Users\pana_\Desktop\bilge adam\15. Hafta(15.08.2022-19.08.2022) 5 Gun\1. Gun\OO-EF_CodeFirstPersonelEkleme\DATA\bin\Debug\DATA.dll
+C:\Users\pana_\Desktop\bilge adam\15. Hafta(15.08.2022-19.08.2022) 5 Gun\1. Gun\OO-EF_CodeFirstPersonelEkleme\DATA\bin\Debug\DATA.pdb
+C:\Users\pana_\Desktop\bilge adam\15. Hafta(15.08.2022-19.08.2022) 5 Gun\1. Gun\OO-EF_CodeFirstPersonelEkleme\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+C:\Users\pana_\Desktop\bilge adam\15. Hafta(15.08.2022-19.08.2022) 5 Gun\1. Gun\OO-EF_CodeFirstPersonelEkleme\DATA\obj\Debug\DATA.dll
+C:\Users\pana_\Desktop\bilge adam\15. Hafta(15.08.2022-19.08.2022) 5 Gun\1. Gun\OO-EF_CodeFirstPersonelEkleme\DATA\obj\Debug\DATA.pdb
